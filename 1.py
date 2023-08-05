@@ -1,4 +1,4 @@
-a = 1
+a = 3
 print("test")
 print("test2")
 print("test3")
